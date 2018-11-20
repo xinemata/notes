@@ -33,7 +33,7 @@
 * Zine Cart in Collaboration with [README](https://readme.gseis.ucla.edu/)
 	* For PCD we are going to build a cart with a few printed zines. Also a raspberry pi, touchscreen, and laser printer. the idea is that folks can select some documents to print on site, and bind. We will have some pre-printed (riso!) covers they can choose from.
 	* Looking for volunteers to work on software
-	* Looking for reading and zine suggestions
+	* Looking for reading and zine suggestions (upload zines to [this folder](https://drive.google.com/drive/folders/1HUihvho9ocm1JsvBXbM35jhfyZctOuiu?usp=sharing))
 	* Generative Cover Jam January 9th 12-2
 
 ## Ideas for the Future
